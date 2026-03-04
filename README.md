@@ -1,5 +1,4 @@
 
----
 
 # README.md
 
@@ -156,3 +155,4 @@ Nama: Sabila Rizqina Majid
 Program Studi: Teknologi Informasi  
 Universitas: UIN Antasari
 ```
+
